@@ -1,0 +1,641 @@
+response_id,town,comment,true_theme
+R0001,Lady Frere,Supplier only comes once a month with stock.,SIM & stock supply
+R0002,Lady Frere,Customers do not know we sell sims.,Branding & visibility
+R0003,Sterkstroom,The printer paper runs out on the device. thank you.,Terminal & device issues
+R0004,Komani,Please paint the wall with branding. eish.,Branding & visibility
+R0005,Sterkstroom,Support takes days to respond and i need help with the app. thank you.,Training & support
+R0006,Lady Frere,The old poster is faded. we are losing customers.,Branding & visibility
+R0007,Whittlesea,Network keeps dropping in the afternoon. please help.,Network quality
+R0008,Whittlesea,Give us branded umbrella and banner. as discussed before.,Branding & visibility
+R0009,Lady Frere,The rep does not bring enough stock and supplier only comes once a month with stock and need training on rica registration. it has been like this for months.,SIM & stock supply
+R0010,Cofimvaba,Terminal battery does not last. as discussed before.,Terminal & device issues
+R0011,Komani,Calls drop all the time. it has been like this for months.,Network quality
+R0012,Cofimvaba,Commission is paid late and payment for sims sold came late and starter packs finish quickly. thank you.,Commission & payment
+R0013,Whittlesea,Please paint the wall with branding and need training on rica registration. we are losing customers.,Branding & visibility
+R0014,Cofimvaba,Need branding so people see us from the road. eish.,Branding & visibility
+R0015,Komani,The signal is very weak inside the shop. eish.,Network quality
+R0016,Whittlesea,No signal when it rains. eish.,Network quality
+R0017,Komani,Terminal software update failed and the device prints slips badly and supplier only comes once a month with stock. please help.,Terminal & device issues
+R0018,Komani,Support takes days to respond and need training on rica registration. as discussed before.,Training & support
+R0019,Komani,Rep never visits to help. as discussed before.,Training & support
+R0020,Komani,Nobody showed me how to register a sim. as discussed before.,Training & support
+R0021,Cofimvaba,Payment for sims sold came late and the old poster is faded. as discussed before.,Commission & payment
+R0022,Komani,Calls drop all the time.,Network quality
+R0023,Sterkstroom,The device prints slips badly.,Terminal & device issues
+R0024,Whittlesea,We would like a new board outside.,Branding & visibility
+R0025,Sterkstroom,The printer paper runs out on the device and the device prints slips badly. this is a big problem.,Terminal & device issues
+R0026,Komani,We would like a new board outside and need branding sopeople see us from the road.,Branding & visibility
+R0027,Komani,Terminal froze and lost a sale and the printer paper runs out on the device and give us branded umbrella and banner. we are losing customers.,Terminal & device issues
+R0028,Komani,The device prints slips badly and terminal software update failed. we are losing customers.,Terminal & device issues
+R0029,Komani,Terminal software update failed.,Terminal & device issues
+R0030,Komani,We want better commission on airtime and commission is paid late. it has been like this for months.,Commission & payment
+R0031,Whittlesea,Out of stock of sims for two weeks and we ran out of sim ards last week. eish.,SIM & stock supply
+R0032,Komani,Need training on rica registration and support takes days to respond.,Training & support
+R0033,Komani,The airtime machine is offline often and the printer paper runs out on the device. we are losing customers.,Terminal & device issues
+R0034,Whittlesea,The signal is very weak inside theshop and network coverage is bad in this area and commission is paid late. eish.,Network quality
+R0035,Lady Frere,I do not understand how commission is calculated and the commission is too small for the work. it has been like this for months.,Commission & payment
+R0036,Komani,The signal is very weak inside the shop and network coverage is bad in this area.,Network quality
+R0037,Sterkstroom,Supplier only comes once a month with stock and i need help with the app. this is a big problem.,SIM & stock supply
+R0038,Komani,Customers complain data is slow here and the signal is very weak inside the shop.,Network quality
+R0039,Whittlesea,No signage outside the shop and we would like a new board outside.,Branding & visibility
+R0040,Komani,Machine needs to be fixed and terminal software update failed.,Terminal & device issues
+R0041,Whittlesea,Terminal software update failed. it has been like this for months.,Terminal & device issues
+R0042,Komani,Need branding so people see us from the road and give us branded umbrella and banner and payment for sims sold came late. please help.,Branding & visibility
+R0043,Komani,Slow internet for customers and need training on rica registration.,Network quality
+R0044,Komani,Network keeps dropping in the afternoon and the signal is very weak inside the shop and terminal froze and lost a sale. this is a big problem.,Network quality
+R0045,Komani,Terminal froze and lost a sale and terminal software update failed and rep never visits to help.,Terminal & device issues
+R0046,Komani,Terminal battery does not last and the device pints slips badly. we are losing customers.,Terminal & device issues
+R0047,Tarkastad,Slow internet for customers and support takes days to respond. it has been like this for months.,Network quality
+R0048,Lady Frere,Customers do not know we sell sims and give us branded umbrella and banner and the printer paper runs out on the device. this is a big problem.,Branding & visibility
+R0049,Tarkastad,The commission is too small for the work and we want better commission on airtime.,Commission & payment
+R0050,Whittlesea,Starter packs finish quickly. please help.,SIM & stock supply
+R0051,Whittlesea,The device prints slips badly. eish.,Terminal & device issues
+R0052,Komani,Terminal software update failed and the printer paper runs out on the device. eish.,Terminal & device issues
+R0053,Cofimvaba,Out of stock of sims for two weeks. this is a big problem.,SIM & stock supply
+R0054,Komani,Machine needs to be fixed and the airtime machine is offline often and customers do not know we sell sims. we are losing cusomers.,Terminal & device issues
+R0055,Lady Frere,I do not understand how commission is calculated and we want better commission on airtime. as discussed before.,Commission & payment
+R0056,Cofimvaba,Network keeps dropping in the afternoon and the speed test was very slow.,Network quality
+R0057,Cofimvaba,No signage outside the shop and need branding so people see us from the road. thank you.,Branding & visibility
+R0058,Komani,The signal is very weak inside the shop and no signal when it rains. we are losing customers.,Network quality
+R0059,Komani,I need help with the app and support takes days to respond.,Training & support
+R0060,Komani,Supplier only comes once a month with stock. as discussed before.,SIM & stock supply
+R0061,Cofimvaba,The helpline does not answer. as discussed before.,Training & support
+R0062,Sterkstroom,The old poster is faded and no signage outside the shop. t has been like this for months.,Branding & visibility
+R0063,Cofimvaba,Terminal software update failed and the airtime machine is offline often. thank you.,Terminal & device issues
+R0064,Whittlesea,Need more sim stock evry month. we are losing customers.,SIM & stock supply
+R0065,Tarkastad,Out of stock of sims for two weeks and stock delivery is late.,SIM & stock supply
+R0066,Cofimvaba,Slow internet for customers and network coverage is bad in this area. thank you.,Network quality
+R0067,Komani,The helpline does not answer and the airtime machine is ffline often.,Training & support
+R0068,Lady Frere,Network coverage is bad in this area and customers complain data is slow here.,Network quality
+R0069,Lady Frere,Machine needs to be fixed and the printer paper runs out on the device.,Terminal & device issues
+R0070,Lady Frere,The airtime machine is offline often and support takes days to respond. as discussed before.,Terminal & device issues
+R0071,Komani,No signage outside the shop and need branding so people see us from the road and the speed test was very slow.,Branding & visibility
+R0072,Lady Frere,Customers complain data is slow here and starter packs finish quickly. we are losing customers.,Network quality
+R0073,Lady Frere,Terminal software update failed and machine needs to be fixed. this is a big problem.,Terminal & device issues
+R0074,Lady Frere,Machine needs to be fixed and rep never visits to help. this is a big problem.,Terminal & device issues
+R0075,Whittlesea,Slow internet for customers and the signal is very weak inside the shop. eish.,Network quality
+R0076,Cofimvaba,The rep does not bring enough stock. thank you.,SIM & stock supply
+R0077,Komani,No signal when it rains.,Network quality
+R0078,Cofimvaba,Machine needs to be fixed. eish.,Terminal & device issues
+R0079,Lady Frere,I do not understand how commission is calculated. this is a big problem.,Commission & payment
+R0080,Lady Frere,Nobody showed me how to register a sim. we are losing customers.,Training & support
+R0081,Lady Frere,Starter packs finish quickly and out of stock of sims for two weeks and the signal is very weak inside the shop. it has ben like this for months.,SIM & stock supply
+R0082,Komani,The commission is too small fr the work.,Commission & payment
+R0083,Tarkastad,The old poster is faded and stock delivery is late. eish.,Branding & visibility
+R0084,Sterkstroom,Rep never visits to help. as discussed before.,Training & support
+R0085,Lady Frere,Starter packs finish quickly and need more sim stock every month. as discussed before.,SIM & stock supply
+R0086,Komani,No signage outside the shop and need branding so people see us from the road. this is a big problem.,Branding & visibility
+R0087,Komani,Commission statement is confusing and the commission is too small for the work.,Commission & payment
+R0088,Komani,The rep does not bring enough stock and i need help with the app.,SIM & stock supply
+R0089,Whittlesea,The airtime machine is offline often and the device prints slips badly. it has been like this for months.,Terminal & device issues
+R0090,Cofimvaba,Terminal froze and lost a sale and the printer paper runs out on the device.,Terminal & device issues
+R0091,Komani,Customers do not know we sell sims. eish.,Branding & visibility
+R0092,Tarkastad,The printer paper runs out on the device and the airtime machine is offline often. please help.,Terminal & device issues
+R0093,Komani,We want better commissio on airtime and payment for sims sold came late and customers complain data is slow here. please help.,Commission & payment
+R0094,Sterkstroom,The commission is too small for the work. this is a big problem.,Commission & payment
+R0095,Lady Frere,Terminal froze and lost a sale. we are losing customers.,Terminal & device issues
+R0096,Lady Frere,I need help with the app and need training on rica registration.thank you.,Training & support
+R0097,Lady Frere,Need more sim stock every month and supplier only comes once a month with stock.,SIM & stock supply
+R0098,Lady Frere,The old poster is faded and customers do not know we sell sims and the speed test was very slow. as discussed before.,Branding & visibility
+R0099,Sterkstroom,Commission statement is cofusing.,Commission & payment
+R0100,Cofimvaba,Need branding so people see us from the road.,Branding & visibility
+R0101,Komani,Slow internet for customers. eish.,Network quality
+R0102,Tarkastad,No signage outside the shop and need training on rica registration.,Branding & visibility
+R0103,Komani,Terminal battery does not last and terminal froze and lost a sale.,Terminal & device issues
+R0104,Lady Frere,Network coverage is bad in this area. as discussed before.,Network quality
+R0105,Cofimvaba,We ran out of sim cards last week and the rep does not bring enough stock and i need help with the app.,SIM & stock supply
+R0106,Lady Frere,Give us branded umbrella and banner and no signage outside the shop. this is a big problem.,Branding & visibility
+R0107,Sterkstroom,The printer paper runs out on the device. this is a big problem.,Terminal & device issues
+R0108,Whittlesea,Customers complain data is slow here and the commission is too small for the work. this is a big problem.,Network quality
+R0109,Cofimvaba,Need more sim stock every month. thank you.,SIM & stock supply
+R0110,Cofimvaba,Supplier only comes once a month with stock. this is a big problem.,SIM & stock supply
+R0111,Cofimvaba,Please paint the wall with branding. this is a big problem.,Branding & visibility
+R0112,Komani,Commission is paid late.,Commission & payment
+R0113,Lady Frere,Give us branded umbrella and banner. thank you.,Branding & visibility
+R0114,Lady Frere,No signage outside the shop and please paint the wall with branding and the speed test was very slow. please help.,Branding & visibility
+R0115,Sterkstroom,Commission statement is confsing and terminal software update failed. we are losing customers.,Commission & payment
+R0116,Komani,Slow internet for customers. thank you.,Network quality
+R0117,Komani,Network coverage is bad in this area and customers complain data is slow here. thank you.,Network quality
+R0118,Whittlesea,The rep doe not bring enough stock and no signal when it rains. it has been like this for months.,SIM & stock supply
+R0119,Whittlesea,Starter packs finish quickly and need more sim stock every month. as discussed before.,SIM & stock supply
+R0120,Komani,Starter packs finish quickly and supplier only comes once a month with stock. as discussed before.,SIM & stock supply
+R0121,Komani,Comission statement is confusing and give us branded umbrella and banner.,Commission & payment
+R0122,Komani,We ran out of sim cards last week and stock delivery is late.,SIM & stock supply
+R0123,Cofimvaba,I do not understand how commission is calculated and we want better commission on airtime. this is a big problem.,Commission & payment
+R0124,Lady Frere,Want training for my assistant and need training on rica registration. we are losing customers.,Training & support
+R0125,Sterkstroom,The rep does not bring enough stock and stock delivery is late.,SIM & stock supply
+R0126,Whittlesea,Stock delivery is late and we ran out of sm cards last week.,SIM & stock supply
+R0127,Lady Frere,The device prints slips badly. as discussed before.,Terminal & device issues
+R0128,Cofimvaba,Network keeps dropping in the afternoon and calls drop all the time and customers do not know we sell sim.,Network quality
+R0129,Komani,The helpline does not answer and rep never visits to help.,Training & support
+R0130,Cofimvaba,We ran out of sim cards last week and stock delivery is late. this is a big problem.,SIM & stock supply
+R0131,Tarkastad,The speed test was very slow. it has been like this for months.,Network quality
+R0132,Cofimvaba,I do not understand how commission is calculated and commission statement is confusing. eish.,Commission & payment
+R0133,Lady Frere,The helpline does not answer. we are losing customers.,Training & support
+R0134,Cofimvaba,Supplier only comes once a month with stock.,SIM & stock supply
+R0135,Lady Frere,Slow internet for customers and please paint the wall with branding. we are losing customers.,Network quality
+R0136,Komani,We want better commission on airtime and commission statement is confusing. it has been like this for months.,Commission & payment
+R0137,Lady Frere,Terminal froze and lost a sale and terminal software update failed and need branding so people see us from the road. eish.,Terminal & device issues
+R0138,Komani,Out of stock of sims for two weeks and starter packs finish quickly.,SIM & stock supply
+R0139,Lady Frere,I need help with the app and the helpline does not answer. this is a big problem.,Training & support
+R0140,Cofimvaba,Want training for my assistant and rep never visits to help.,Training & support
+R0141,Komani,Stock delivery is late.,SIM & stock supply
+R0142,Komani,Need branding so people see us from the road and customers do not know we sell sims.,Branding & visibility
+R0143,Cofimvaba,The commission is too small for the work and no signal when it rains.,Commission & payment
+R0144,Whittlesea,Customers complain data is slow here and network keeps dropping in the afternoon.,Network quality
+R0145,Tarkastad,Support takes days to respond and the helpline does not answer and commission is paid late. we are losing customers.,Training & support
+R0146,Komani,No signage outside the shop. eish.,Branding & visibility
+R0147,Komani,Out of stock of sims for two weeks. this is a big problem.,SIM & stock supply
+R0148,Whittlesea,Out of stock of sims for two weeks and we ran out of sim cards last week. as discussed before.,SIM & stock supply
+R0149,Komani,The helpline does not answer and nobody showed me how to register a sim. eish.,Training & support
+R0150,Whittlesea,Supplier only comes once a month with stock. as discussed before.,SIM & stock supply
+R0151,Komani,The device prints slips badly and terminal battery does not last and slow internet for customers.,Terminal & device issues
+R0152,Whittlesea,Payment for sims sold came late and i d not understand how commission is calculated. this is a big problem.,Commission & payment
+R0153,Sterkstroom,Commission statement is confusing and the helpline does not answer. this is a big problem.,Commission & payment
+R0154,Komani,The signal is very weak inside the shop.,Network quality
+R0155,Whittlesea,Need more sim stock every month and the printer paper runs out on the device. we are losing customers.,SIM & stock supply
+R0156,Lady Frere,We ran out of sim cards last week and out of stock of sims for two weeks. this is a big problem.,SIM & stock supply
+R0157,Lady Frere,The airtime machine is offline often. as discussed before.,Terminal & device issues
+R0158,Sterkstroom,Payment for sims sod came late and terminal software update failed.,Commission & payment
+R0159,Whittlesea,Network keeps dropping in the afternoon. thank you.,Network quality
+R0160,Komani,No signage outside the shop. thank you.,Branding & visibility
+R0161,Whittlesea,Rep never visits to help and the helpline does not answer. we are losng customers.,Training & support
+R0162,Whittlesea,I need help with the app and need training on rica registration. as discussed before.,Training & support
+R0163,Sterkstroom,Out of stock of sims for two weeks and stock delivery is late. thank you.,SIM & stock supply
+R0164,Whittlesea,The helpline does not answer. thank you.,Training & support
+R0165,Whittlesea,Network coverage is bad in this area.,Network quality
+R0166,Cofimvaba,Network coverage is bad in this area and customers complain data is slow here. we are losing customers.,Network quality
+R0167,Cofimvaba,Network coverage is bad in this area and customers complain data is slow here.,Network quality
+R0168,Sterkstroom,No signal when it rains and the speed test was very slow. this is a big problem.,Network quality
+R0169,Cofimvaba,Stock delivery is late and supplier only come once a month with stock. please help.,SIM & stock supply
+R0170,Tarkastad,The device prints slips badly. thank you.,Terminal & device issues
+R0171,Komani,The device prints slips badly and machine needs to be fixed. it has been like this for months.,Terminal & device issues
+R0172,Sterkstroom,Need branding so people see us from the road. we are losing customers.,Branding & visibility
+R0173,Lady Frere,Stock delivery is late and starter packs finish quickly. eish.,SIM & stock supply
+R0174,Cofimvaba,Starter packs finish quickly.,SIM & stock supply
+R0175,Komani,Customers complain data is slo here.,Network quality
+R0176,Lady Frere,No signal when it rains.,Network quality
+R0177,Whittlesea,Terminal software update failed. we are losing custoers.,Terminal & device issues
+R0178,Lady Frere,No signal when it rains. it has been lik this for months.,Network quality
+R0179,Komani,Payment for sims sold came late and i do not understand how commission is calculated. this is a big problem.,Commission & payment
+R0180,Sterkstroom,Rep never visits to help and the printer paper runs out on the device.,Training & support
+R0181,Whittlesea,Commission is paid late and the commission is too small for the work. eish.,Commission & payment
+R0182,Tarkastad,Need branding so people see us from the road and the old poster is faded. as discussed before.,Branding & visibility
+R0183,Tarkastad,No signal when it rains and slow internet for customers ad starter packs finish quickly. this is a big problem.,Network quality
+R0184,Komani,Commission statement is confusing and the old poster is faded. eish.,Commission & payment
+R0185,Komani,Supplier only comes once a month with stock. this is a big problem.,SIM & stock supply
+R0186,Komani,I do not understand how commission is calculated and we want better commission on airtime.,Commission & payment
+R0187,Lady Frere,Starter packs finish quickly. eish.,SIM & stock supply
+R0188,Komani,Customers complain data is slow here and we ran out of sim cards last week. it has been like this for months.,Network quality
+R0189,Sterkstroom,Network keeps dropping in the afternoon and the speed test was very slow.,Network quality
+R0190,Tarkastad,Network keeps dropping in the afternoon and the speed test was very slow. eish.,Network quality
+R0191,Cofimvaba,Wewant better commission on airtime. thank you.,Commission & payment
+R0192,Cofimvaba,Commission statement is confusing and the commission is too small for the work.,Commission & payment
+R0193,Whittlesea,Need more sim stock every month and we ran out of sim cards last week. please help.,SIM & stock supply
+R0194,Komani,Network keeps dropping in the afternoon. as discussed before.,Network quality
+R0195,Tarkastad,We want better commission on airtime and i do not understand how commission is calculated and the helpline does not answer.,Commission & payment
+R0196,Komani,Please paint the wall with branding and the commission is too small for the work.,Branding & visibility
+R0197,Komani,Need training on rica regstration. please help.,Training & support
+R0198,Komani,The device prints slips badly.,Terminal & device issues
+R0199,Komani,The signal is very weak inside the shop. thank you.,Network quality
+R0200,Lady Frere,Give us braned umbrella and banner. this is a big problem.,Branding & visibility
+R0201,Komani,Nobody showed me how to register a sim. this is a big problem.,Training & support
+R0202,Sterkstroom,I do not understand how commission is calculated and the commission is too small for the work. it has been like this for months.,Commission & payment
+R0203,Komani,The commission is too small for the work and network coverage is bad in this area. it has been like this for months.,Commission & payment
+R0204,Komani,I do not understand how commission is calculated. please help.,Commission & payment
+R0205,Whittlesea,The rep does not bring enough stock and need more sim stock every month. this is a big problem.,SIM & stock supply
+R0206,Cofimvaba,We ran out of sim cards last week and starter packs finish quickly and commission is paid late. this is a big problem.,SIM & stock supply
+R0207,Komani,Terminal froze and lost a sale and the printer paper runs out on the device.,Terminal & device issues
+R0208,Cofimvaba,The airtime machine is offline often and terminal froze and lost a sale.,Terminal & device issues
+R0209,Komani,Network coverage is bad in this area and calls drop all the time and the device prints slips badly. as discussed before.,Network quality
+R0210,Whittlesea,Commission is paid late. we are losing customers.,Commission & payment
+R0211,Whittlesea,Commission is paid late and need more sim stock every month. as discussed before.,Commission & payment
+R0212,Cofimvaba,Want training for my assistant. it has been like this for months.,Training & support
+R0213,Tarkastad,We ran out of sim cards last week.,SIM & stock supply
+R0214,Cofimvaba,Want training for my assitant and rep never visits to help.,Training & support
+R0215,Lady Frere,Need training on rica registration. as discussedbefore.,Training & support
+R0216,Cofimvaba,Stock delivery is late and give us branded umbrella and banner.,SIM & stock supply
+R0217,Komani,Commission statement is confusin. this is a big problem.,Commission & payment
+R0218,Komani,The speed test was very slow. we are losing customers.,Network quality
+R0219,Sterkstroom,The speed test was very slow and slow internet for customers. please help.,Network quality
+R0220,Komani,The device rints slips badly. we are losing customers.,Terminal & device issues
+R0221,Komani,Nobody showed me how to regster a sim and the helpline does not answer. we are losing customers.,Training & support
+R0222,Tarkastad,Calls drop all the time. this is a big problem.,Network quality
+R0223,Whittlesea,Commission is paid late and the commission is too small for the work. as discussed before.,Commission & payment
+R0224,Sterkstroom,Calls drop all the time. it has been like this for months.,Network quality
+R0225,Sterkstroom,Need branding so people see us from the road and support takes days to respond. please help.,Branding & visibility
+R0226,Tarkastad,The helpline does not answer and i need help with the app. thank you.,Training & support
+R0227,Whittlesea,We ran out of sim cards last week and the printer paper runs out on the device. as discussed before.,SIM & stock supply
+R0228,Cofimvaba,Customers complain data is slow here.,Network quality
+R0229,Komani,The printer paper runs out on the device and terminal software update failed. this is a big problem.,Terminal & device issues
+R0230,Komani,The rep does not bring enough stock. this is a big problem.,SIM & stock supply
+R0231,Cofimvaba,Calls drop all the time and network coverage is bad in this area. eish.,Network quality
+R0232,Komani,Starter packs finish quickly and need more sim stock every month. we are losing customers.,SIM & stock supply
+R0233,Cofimvaba,Customers complain data is slow here and network keeps dropping in the afternoon.,Network quality
+R0234,Lady Frere,Calls drop all the time and support takes days to respond.,Network quality
+R0235,Whittlesea,I do not understand how commission is calculated and the commission is too small for the work. this is a big problem.,Commission & payment
+R0236,Komani,Terminal battery des not last.,Terminal & device issues
+R0237,Whittlesea,Need training on rica registration and rep never visits to help.,Training & support
+R0238,Lady Frere,Stock delivery is late. as discussed before.,SIM & stock supply
+R0239,Cofimvaba,The printer paper runs out on the device and terminal software update failed. please help.,Terminal & device issues
+R0240,Whittlesea,Customers do not know we sell sims. this i a big problem.,Branding & visibility
+R0241,Komani,The printer paperruns out on the device. as discussed before.,Terminal & device issues
+R0242,Sterkstroom,Network keeps dropping in the afternoon. please help.,Network quality
+R0243,Lady Frere,The printer paper runs out on the evice and terminal battery does not last. please help.,Terminal & device issues
+R0244,Komani,Calls drop all the tme. this is a big problem.,Network quality
+R0245,Lady Frere,We would like a new board outside. it has been like this for months.,Branding & visibility
+R0246,Komani,The commission is too small for the work. please help.,Commission & payment
+R0247,Lady Frere,The rep does not bring enough stock and commission is paid late. thank you.,SIM & stock supply
+R0248,Whittlesea,Stock delivery is late and we ran out of sim cards last week. eish.,SIM & stock supply
+R0249,Sterkstroom,The device prints slips badly and terminal software update failed. we are losing customers.,Terminal & device issues
+R0250,Komani,Slow internet for customers and no signal when it rains. thank you.,Network quality
+R0251,Tarkastad,Network keeps dropping in the afternoon and the speed test was very slow. as discussed before.,Network quality
+R0252,Tarkastad,The helpline does not answer. as discussed before.,Training & support
+R0253,Sterkstroom,Supplier only comes once a month with stock. this is a big problem.,SIM & stock supply
+R0254,Komani,Slow internet for customers and network coverage is bad in this area.,Network quality
+R0255,Komani,No signage outside the shop and please paint the wall with branding and the helpline does not answer. eish.,Branding & visibility
+R0256,Komani,Supplier only comes once a month with stock.,SIM & stock supply
+R0257,Komani,Give us branded umbrella and banner. as discussed before.,Branding & visibility
+R0258,Komani,No signal when it rains and customers complain data is slow here and the commission is too small for the work. it has been like this for months.,Network quality
+R0259,Komani,We want better commission on airtime and the commission is too small for the work and the rep does not bring enough stock.,Commission & payment
+R0260,Whittlesea,Rep never visits to help and support takes days to respond.,Training & support
+R0261,Sterkstroom,Supplier only comes once a onth with stock. as discussed before.,SIM & stock supply
+R0262,Komani,Starter packs finish quickly. thank you.,SIM & stock supply
+R0263,Tarkastad,Give us branded umbrella and banner and please paint the wall with branding.,Branding & visibility
+R0264,Whittlesea,No sinal when it rains. it has been like this for months.,Network quality
+R0265,Cofimvaba,Please paint the wall with branding.,Branding & visibility
+R0266,Tarkastad,We ran out of sim cards last week and supplier only comes once a month with stock.,SIM & stock supply
+R0267,Komani,Need branding so people see us from the road and we would like a new board outside. as discussed before.,Branding & visibility
+R0268,Cofimvaba,No signageoutside the shop. eish.,Branding & visibility
+R0269,Komani,Machine needs to be fixed and terminal software update failed. it has been like this for months.,Terminal & device issues
+R0270,Komani,Give us branded umbrella and banner and please paint the wall with branding and i do not understand how commission is calculated. as discussed before.,Branding & visibility
+R0271,Lady Frere,Want training for my assistant. please help.,Training & support
+R0272,Sterkstroom,The speed test was very slow and no signal when it rains. it has been like this for months.,Network quality
+R0273,Whittlesea,Want training for my assistant.,Training & support
+R0274,Cofimvaba,The printer paper runs out on the device and terminal software update failed.,Terminal & device issues
+R0275,Cofimvaba,Commission is paid late. it has been like this fo months.,Commission & payment
+R0276,Whittlesea,Nobody showed me how to register a sim and the helpline does not answer. this is a big problem.,Training & support
+R0277,Tarkastad,Supplier only comes once a month with stock and need more sim stock every month. as discussed before.,SIM & stock supply
+R0278,Komani,I need help with the app. please help.,Training & support
+R0279,Whittlesea,Payment for sims sold came late and commission is paid late.,Commission & payment
+R0280,Komani,The airtime machine is offline often.,Terminal & device issues
+R0281,Komani,Supplier only comes once a month with stock and the rep does not bring enough stock and no signal when it rains.,SIM & stock supply
+R0282,Komani,Calls drop all the time and slow internet for customers.,Network quality
+R0283,Cofimvaba,Commission statement is confusing and we want better commission on airtime. thank you.,Commission & payment
+R0284,Komani,The old poster is faded and please paint the wall with branding. as discussed before.,Branding & visibility
+R0285,Lady Frere,Support takes days to respond and nobody showed me how to register a sim. as discussed before.,Training & support
+R0286,Lady Frere,The helpline does not answer.,Training & support
+R0287,Cofimvaba,Terminal battery does not last and the old poster is faded. eish.,Terminal & device issues
+R0288,Lady Frere,The signal is very weak inside the shop and no signal when it rains and need training on rica registration. please help.,Network quality
+R0289,Komani,Customers do not know we sell sims. this is a big problem.,Branding & visibility
+R0290,Whittlesea,Terminal software update failed and the printer paper runs out on the device. eish.,Terminal & device issues
+R0291,Komani,Terminal froze and lost a sale and machine needs to be fixed. we are losing customers.,Terminal & device issues
+R0292,Sterkstroom,I do not understand how commission is calculated and commission is paid late and the airtime machine is offline often. eish.,Commission & payment
+R0293,Lady Frere,Network keeps dropping in the afternoon and the airtime machine is offline often. we are losing customers.,Network quality
+R0294,Cofimvaba,Stock delivery is late.,SIM & stock supply
+R0295,Tarkastad,We want better commission on airtime and commission is paid late. it has been like this for months.,Commission & payment
+R0296,Komani,The rep does not bring enough stock and stock delivery is late.,SIM & stock supply
+R0297,Cofimvaba,Want training for my assistant and the helpline does not answer.,Training & support
+R0298,Komani,Commission statement is confusing. we are losing customers.,Commission & payment
+R0299,Komani,Commission statement is confusing and payment for sims sold came late. this is a big problem.,Commission & payment
+R0300,Whittlesea,Need branding so people see us from the road and the old poster is faded and the commission is too small for the work. this is a big problem.,Branding & visibility
+R0301,Komani,Customers do not know we sell sims and no signage outside the shop.,Branding & visibility
+R0302,Cofimvaba,Supplier only comes once a month with stock and we ran out of sim cards last week. it has been like this for months.,SIM & stock supply
+R0303,Komani,Terminal battery dos not last. thank you.,Terminal & device issues
+R0304,Tarkastad,No signal when it rains and network keeps dropping in the afternoon. we are losing customers.,Network quality
+R0305,Komani,The printer paper runs out on the device. we are losing customers.,Terminal & device issues
+R0306,Komani,Payment for sims sold came late and i do not understand how commission is calculated and we ran out of sim cards last week. please help.,Commission & payment
+R0307,Komani,Payment for sims sold came late and the commission is too small for the work. this is a big problem.,Commission & payment
+R0308,Komani,Payment for sims sold came late and commission statement is confusing and supplier only comes once a month with stock.,Commission & payment
+R0309,Whittlesea,Network coverage is bad in this area. thank you.,Network quality
+R0310,Komani,Rep never visits to help and need branding so people see us from the road. as discussed before.,Training & support
+R0311,Tarkastad,Rep never visits to help and network coverage is bad in this area.,Training & support
+R0312,Whittlesea,Machine needs to be fixed and terminal battery does not last and give us branded umbrella and banner. as discussed before.,Terminal & device issues
+R0313,Whittlesea,The commission is too small for the work and commission statement is confusing.,Commission & payment
+R0314,Komani,Payment for sims sold came late. we are losing customers.,Commission & payment
+R0315,Tarkastad,Out of stock of sims for two weeks. this is a big problem.,SIM & stock supply
+R0316,Komani,Customers do not know we sell sims and need branding so people see us from the road and calls drop all the time. eish.,Branding & visibility
+R0317,Komani,Commission is paid late and payment for sims sold came late.,Commission & payment
+R0318,Tarkastad,Commission statement is confusing and we want better commission on airtime and the old poster is faded. it has been like this for months.,Commission & payment
+R0319,Komani,Stock delivery is late and the device prints slips badly. thank you.,SIM & stock supply
+R0320,Whittlesea,The commission is too small for the work and stock delivery is late. eish.,Commission & payment
+R0321,Cofimvaba,The signal is very weak inside the shop. please help.,Network quality
+R0322,Tarkastad,Out of stock of sims for two weeks. his is a big problem.,SIM & stock supply
+R0323,Komani,Commission is paid late and payment for sims sold came late. as discussed befoe.,Commission & payment
+R0324,Lady Frere,Stock delivery is late and out of stock of sims for two weeks. eish.,SIM & stock supply
+R0325,Komani,Payment for sims sold came late and i do not understand how commission is calculatd.,Commission & payment
+R0326,Whittlesea,We would like a new board outside ad please paint the wall with branding.,Branding & visibility
+R0327,Komani,Need training on rica registration and support takes days to respond and i do not understand how commission is calculated.,Training & support
+R0328,Sterkstroom,Out of stock of sims for two weeks and need more sim stock every month. it has been like this for months.,SIM & stock supply
+R0329,Tarkastad,Need more sim stock every month.,SIM & stock supply
+R0330,Komani,Payment for sims sold came late.,Commission & payment
+R0331,Lady Frere,No signal when it rains and customers complain data is slow here. thank you.,Network quality
+R0332,Tarkastad,Terminal battery does not last.,Terminal & device issues
+R0333,Komani,Terminal software update failed and the airtime machine is offline often. please help.,Terminal & device issues
+R0334,Sterkstroom,Terminal battery does not last. as discussed before.,Terminal & device issues
+R0335,Komani,Need more sim stock every month. as discussed before.,SIM & stock supply
+R0336,Komani,I need help with the app and supplier only comes once a month with stock.,Training & support
+R0337,Komani,Customers complain data is slow here and the helpline does not answer. thank you.,Network quality
+R0338,Komani,The speed test was very slow.,Network quality
+R0339,Sterkstroom,Rep never visits to help. we are losing customers.,Training & support
+R0340,Lady Frere,Rep never visits to help. it has been like this for months.,Training & support
+R0341,Lady Frere,Supplier only comes once a month with stock and want training for myassistant. thank you.,SIM & stock supply
+R0342,Cofimvaba,Calls drop all the time and slow internet for customers. this is abig problem.,Network quality
+R0343,Komani,Payment for sims sold came late and commission is paid late. we are losing customers.,Commission & payment
+R0344,Tarkastad,Supplier only comes once a month with stock. it has been like this for months.,SIM & stock supply
+R0345,Whittlesea,The rep does not bring enough stock.,SIM & stock supply
+R0346,Cofimvaba,Need more sim stock every month. it has been like this for months.,SIM & stock supply
+R0347,Lady Frere,Need training on rica registration and support takes days to respond. this is a big problem.,Training & support
+R0348,Cofimvaba,Network keeps dropping in the afternoon and the helpline does not answer. this is a big problem.,Network quality
+R0349,Komani,The printer paper runs out on the device and payment for sims sold came late.,Terminal & device issues
+R0350,Komani,Need training on rica registration and please paint the wall with branding. please help.,Training & support
+R0351,Lady Frere,The rep does not bring enough stock and need branding so people see us from the road. as discussed before.,SIM & stock supply
+R0352,Whittlesea,Want training for my assistant and the speed test was very slow. we are losing customers.,Training & support
+R0353,Komani,We want better commission on airtime and i do not understand how commission is calculated and terminal software update failed. it has been like this for months.,Commission & payment
+R0354,Komani,The signal is very weak inside the shop. eish.,Network quality
+R0355,Komani,I need help with the app and the helpline does not answer and the old poster is faded. we are losing customers.,Training & support
+R0356,Komani,No signal when it rains. please help.,Network quality
+R0357,Komani,Stock delivery is late.,SIM & stock supply
+R0358,Lady Frere,Starter packs finish quickly. this is a big problem.,SIM & stock supply
+R0359,Tarkastad,We would like a new board outside. we are losing customers.,Branding & visibility
+R0360,Whittlesea,The speed test was very slow and no signal when it rains.,Network quality
+R0361,Lady Frere,Rep never visits to help and want training for my assistant. this is a big problem.,Training & support
+R0362,Komani,Terminal battery does not last and terminal froze and lost a sale. it has been like this for months.,Terminal & device issues
+R0363,Komani,The commission is too small for the work and payment for sims sold came late and terminal software update failed. as discussed before.,Commission & payment
+R0364,Komani,Nobody showed me how to register a sim and i need help with the app. eish.,Training & support
+R0365,Komani,Need branding so people see us from the road and we would like a new board outside. we are losing customers.,Branding & visibility
+R0366,Whittlesea,I do not understand how commission is calculated and we want better commission on airtime. please help.,Commission & payment
+R0367,Cofimvaba,Want training for my assistant and support takes days to respond.,Training & support
+R0368,Komani,We ran out of sim cards last week. as discussed before.,SIM & stock supply
+R0369,Komani,No signal when it rains and the commission is too small for the work. please help.,Network quality
+R0370,Komani,The device prints slips badly and machine needs to be fixed. this is a big problem.,Terminal & device issues
+R0371,Komani,We want better commission on airtime. it has been like this for months.,Commission & payment
+R0372,Komani,Stock delivery is late.,SIM & stock supply
+R0373,Lady Frere,Network coverage is bad in this area and calls drop all the time and commission is paid late. it has been like this for months.,Network quality
+R0374,Komani,The printer paper runs out on the device. thank you.,Terminal & device issues
+R0375,Whittlesea,Need training on rica registration. we are losing customers.,Training & support
+R0376,Tarkastad,Terminal software update failed. eish.,Terminal & device issues
+R0377,Whittlesea,I do not understand how commission is calculated. eish.,Commission & payment
+R0378,Whittlesea,Network coverage is bad in this rea. it has been like this for months.,Network quality
+R0379,Tarkastad,Starter packs finish quickly and the rep does not bring enough stock and customers complain data is slow here. as discussed before.,SIM & stock supply
+R0380,Komani,We would like a new board outside. please help.,Branding & visibility
+R0381,Komani,Terminal battery does not last and terminal software update failed and need more sim stock every month.,Terminal & device issues
+R0382,Cofimvaba,Give us branded umbrella and banner and customers do not know we sell sims.,Branding & visibility
+R0383,Komani,Payment for sims sold came late. we are losing customers.,Commission & payment
+R0384,Whittlesea,Commission statement is confusing and i do not understand hw commission is calculated. we are losing customers.,Commission & payment
+R0385,Sterkstroom,Network keeps dropping in the afternoon. it has been like this for months.,Network quality
+R0386,Lady Frere,The signal is very weak inside the shop. eish.,Network quality
+R0387,Tarkastad,Need branding so people see us from the road and customers do not know we sell sims.,Branding & visibility
+R0388,Cofimvaba,Out of stock of sims for two weeks and stock delivery is late and nobody showed me how to register a sim.,SIM & stock supply
+R0389,Whittlesea,The airtime machine is offline often. it has been like this for months.,Terminal & device issues
+R0390,Cofimvaba,Terminal froze and lost a sale and terminal battery does not last. as discussed before.,Terminal & device issues
+R0391,Cofimvaba,Customers complain data is slow here. we are losing customers.,Network quality
+R0392,Komani,Terminal software update failed and terminal battery does not last. as discussed before.,Terminal & device issues
+R0393,Cofimvaba,Starter packs finish quickly and out of stock of sims for two weeks. please help.,SIM & stock supply
+R0394,Komani,Network keeps dropping in the afternoon and customers complain data is slow here. please help.,Network quality
+R0395,Komani,Customers complain data is slow here. it has been like this for months.,Network quality
+R0396,Lady Frere,Slow internet for customers. eish.,Network quality
+R0397,Komani,Support takes days to respond and i need help with the app. eish.,Training & support
+R0398,Whittlesea,Calls drop all the time. eish.,Network quality
+R0399,Komani,Network coverage is bad in this area and calls drop all the time. as discussed before.,Network quality
+R0400,Whittlesea,Nework keeps dropping in the afternoon and the signal is very weak inside the shop.,Network quality
+R0401,Cofimvaba,Customers complain data is slow here.,Network quality
+R0402,Cofimvaba,Need training on rica registration.,Training & support
+R0403,Cofimvaba,Machine needs to be fixed and terminal froze and lost a sale and we would like a new board outside. we are losing customers.,Terminal & device issues
+R0404,Lady Frere,We ran out of sim cards last week. please help.,SIM & stock supply
+R0405,Komani,We ran out of sim cards last week and need more sim stock every month. please help.,SIM & stock supply
+R0406,Komani,The commission is too small for the work and i do not understand how commission is calculated. as discussed before.,Commission & payment
+R0407,Lady Frere,Customers complain data is slow here and network keeps dropping in the afternoon and the printer paper runs out on the device. eish.,Network quality
+R0408,Lady Frere,The commission is too small for the work and payment for sims sold came late and we would like a new board outside. thank you.,Commission & payment
+R0409,Komani,The printer paper runs out on the device and machine needs to be fixed. it has been like this for months.,Terminal & device issues
+R0410,Lady Frere,Nobody showed me how to register a sim and want training for my assistant and out of stock of sims for two weeks. please help.,Training & support
+R0411,Komani,Commission statement is confusing and the rep does not bring enough stock. thank you.,Commission & payment
+R0412,Lady Frere,Want training for my assistant and rep never visits to help. as discussedbefore.,Training & support
+R0413,Whittlesea,Rep never visits to help and support takes days to respond. this is a big problem.,Training & support
+R0414,Komani,No signal when it rains. eish.,Network quality
+R0415,Komani,Rep never visits to help and i need help with the app.,Training & support
+R0416,Komani,Rep never visits to help. it has been like this for months.,Training & support
+R0417,Sterkstroom,Out of stock of sims for two weeks and supplier only comes once a month with stock. as discussed before.,SIM & stock supply
+R0418,Komani,Out of stock of sims for two weeks and we ran out of sim cards last week. thank you.,SIM & stock supply
+R0419,Cofimvaba,Need more sim stock every month.,SIM & stock supply
+R0420,Lady Frere,Give us branded umbrella and banner and no signage outside the shop. it has been like this for months.,Branding & visibility
+R0421,Lady Frere,Give us branded umbrella and banner.,Branding & visibility
+R0422,Tarkastad,We would like a new board outside and customers do not know we sell sims. we are losing customers.,Branding & visibility
+R0423,Komani,Out of stock of sims for two weeks. we are losing customers.,SIM & stock supply
+R0424,Whittlesea,The old poster is faded and support takes days to respond. this is a big problem.,Branding & visibility
+R0425,Cofimvaba,Starter packs finish quickly. please help.,SIM & stock supply
+R0426,Whittlesea,No signage outside the shop and give us branded umbrella and banner. please help.,Branding & visibility
+R0427,Komani,Terminal battery does not last and the printer paper runs out on the device. as discussed before.,Terminal & device issues
+R0428,Whittlesea,Want training for my assistant and the helpline does not answer. it has been like this for months.,Training & support
+R0429,Komani,Need branding so people see us from the road and we would like a new board outside. it has been like this for months.,Branding & visibility
+R0430,Whittlesea,Give us branded umbrella and banner and customers do not know we sell sims. thank you.,Branding & visibility
+R0431,Komani,The airtime machine is offline often and the printer paper runs out on the device. it has been like this for months.,Terminal & device issues
+R0432,Komani,Machine needs to be fixed and the helpline does not answer. this is a big problem.,Terminal & device issues
+R0433,Lady Frere,Supplier only comes once a month with stock and starter packs finish quickly. it has ben like this for months.,SIM & stock supply
+R0434,Whittlesea,I need help with the app and nobody showed me how to register a sim.,Training & support
+R0435,Whittlesea,The signal is very weak inside the shop. this is a big problem.,Network quality
+R0436,Komani,Please paint the wall with branding and need branding so people see us from the road. thank you.,Branding & visibility
+R0437,Komani,The printer paper runs out on the device and the airtime machine is offline often.,Terminal & device issues
+R0438,Komani,Support takes days to respond. this is a big problem.,Training & support
+R0439,Cofimvaba,Terminal froze and lost a sale and termnal software update failed.,Terminal & device issues
+R0440,Whittlesea,The airtime machine is offline often and the printer paper runs out on the device and the helpline does not answer. as discussed before.,Terminal & device issues
+R0441,Komani,The old poster isfaded and give us branded umbrella and banner.,Branding & visibility
+R0442,Komani,Calls drop all the time. please help.,Network quality
+R0443,Lady Frere,Payment for sims sold came late. we are losing customers.,Commission & payment
+R0444,Komani,Need branding so people see us from the road.,Branding & visibility
+R0445,Komani,No signage outside the shop and give us brnded umbrella and banner. we are losing customers.,Branding & visibility
+R0446,Komani,Need more sim stock evey month and starter packs finish quickly and need branding so people see us from the road.,SIM & stock supply
+R0447,Lady Frere,The signal is very weak inside the shop and no signal when it rains. this is a big problem.,Network quality
+R0448,Whittlesea,Need training on rica registration and i need help with the app and need branding so people see us from the road. we are losing customers.,Training & support
+R0449,Whittlesea,Calls drop all the time and network coverage is bad in this area. as discussed before.,Network quality
+R0450,Whittlesea,Give us branded umbrella and banner and the old poster is faded. thank you.,Branding & visibility
+R0451,Komani,The old poster is faded. thank you.,Branding & visibility
+R0452,Komani,Terminal froze and lost a sale and terminal battery does not last. as discussed before.,Terminal & device issues
+R0453,Whittlesea,The old poster is faded. please help.,Branding & visibility
+R0454,Cofimvaba,Out of stock of sims for two weeks. we are losing customers.,SIM & stock supply
+R0455,Komani,No signal when it rains and the printer paper runs out on the device. thank you.,Network quality
+R0456,Sterkstroom,Slow internet for customers and the speed test was very slow and terminal battery does not last. we are losing customers.,Network quality
+R0457,Komani,The commission is too smal for the work and the airtime machine is offline often.,Commission & payment
+R0458,Komani,Terminal software update failed and terminal bttery does not last.,Terminal & device issues
+R0459,Komani,Rep never visits to help. eish.,Training & support
+R0460,Komani,Need training on rica registration. this is a big problem.,Training & support
+R0461,Sterkstroom,No signal when it rains. we are losing customers.,Network quality
+R0462,Sterkstroom,Slow internet for custoers. eish.,Network quality
+R0463,Cofimvaba,Machine needs to be fixed and need training on rica reistration.,Terminal & device issues
+R0464,Lady Frere,Want training for my assistant and nobody showed me how to register a sim. eish.,Training & support
+R0465,Lady Frere,I do not understand how commission is calculated. please help.,Commission & payment
+R0466,Komani,The printer paper runs out on te device and terminal software update failed. as discussed before.,Terminal & device issues
+R0467,Komani,Slow internet for customers.,Network quality
+R0468,Komani,Commission is paid late and the commission is too small for the work. as discussed before.,Commission & payment
+R0469,Komani,Please paint the wall with branding. as discussed before.,Branding & visibility
+R0470,Komani,Customers complain data is slow here and network keeps dropping in the afternoon. we are losing customers.,Network quality
+R0471,Komani,Terminal battery does not last. please help.,Terminal & device issues
+R0472,Cofimvaba,Customers comlain data is slow here. thank you.,Network quality
+R0473,Whittlesea,Please paint the wall with branding and give us branded umbrella and banner. as discussed before.,Branding & visibility
+R0474,Cofimvaba,We ran out of sim cards last week and out of stock of sims for two weeks and please paint the wall with branding. thank you.,SIM & stock supply
+R0475,Komani,Terminal froze and lost a sale. as discussed before.,Terminal & device issues
+R0476,Cofimvaba,I do not understand how commission is calculated.,Commission & payment
+R0477,Komani,Give us branded umbrella and banner. this is a big problem.,Branding & visibility
+R0478,Komani,Need branding so people see us from the road and customers do not know we sell sims and the printer paper runs out on the device.,Branding & visibility
+R0479,Lady Frere,Machine needs to be fixed.,Terminal & device issues
+R0480,Komani,The commission is too small for the work. please help.,Commission & payment
+R0481,Cofimvaba,We ran out of sim cards last week and starter packs finish quickly.,SIM & stock supply
+R0482,Whittlesea,We would like a new board outside. please help.,Branding & visibility
+R0483,Lady Frere,Terminal software update failed and the speed test was very slow. eish.,Terminal & device issues
+R0484,Sterkstroom,Customers do not know we sell sims.,Branding & visibility
+R0485,Cofimvaba,Need training on rica registration and i need help with the app and no signage outside the shop. eish.,Training & support
+R0486,Cofimvaba,Payment for sims sold came late and need training on rica registration. this is a big problem.,Commission & payment
+R0487,Whittlesea,The rep does not bring enough stock. it has been like this for months.,SIM & stock supply
+R0488,Whittlesea,Calls drop all the time. please help.,Network quality
+R0489,Tarkastad,We would like a new board outside. it has been like this for months.,Branding & visibility
+R0490,Cofimvaba,Terminal software update failed and terminal battery does not last and stock delivery is late. please help.,Terminal & device issues
+R0491,Komani,Starter packs finish quickly and need more sim stock every month. this is a big problem.,SIM & stock supply
+R0492,Sterkstroom,Needbranding so people see us from the road. we are losing customers.,Branding & visibility
+R0493,Whittlesea,The rep does not bring enough stock.,SIM & stock supply
+R0494,Lady Frere,The airtime machine is offline often. eish.,Terminal & device issues
+R0495,Komani,The helpline does not answer. please help.,Training & support
+R0496,Whittlesea,The airtime machine is offline often and terminal battery does not last. eish.,Terminal & device issues
+R0497,Komani,We want better commission on airtime and the commission is too smal for the work and please paint the wall with branding.,Commission & payment
+R0498,Lady Frere,The hlpline does not answer. this is a big problem.,Training & support
+R0499,Lady Frere,Customers do not know we sell sims and no signage outside the shop.,Branding & visibility
+R0500,Komani,Nobody showed me how to register a sim.,Training & support
+R0501,Lady Frere,Terminal software update failed and we ran out of sim cards last week.,Terminal & device issues
+R0502,Komani,Supplier only comes once a month with stock and starter packs finish quickly and network coverage is bad in this area. we are losing customers.,SIM & stock supply
+R0503,Sterkstroom,Nobody showed me how to register a sim and want trining for my assistant.,Training & support
+R0504,Komani,The speed test was very slow and customers complain data is slow here.,Network quality
+R0505,Lady Frere,The signal is very weak inside the shop and network coverage is bad in this area and commission is paid late. this is a big problem.,Network quality
+R0506,Komani,Commission statement is confusing and commission is paid late and support takes das to respond.,Commission & payment
+R0507,Komani,We ran out of sim cards last week and the rep does not bring enough stock.,SIM & stock supply
+R0508,Cofimvaba,No signal when it rains and network keeps dropping in the afternoon. we are losing customers.,Network quality
+R0509,Sterkstroom,Terminal softare update failed and the printer paper runs out on the device and we ran out of sim cards last week.,Terminal & device issues
+R0510,Komani,Give us branded umbrella and banner and ned branding so people see us from the road and support takes days to respond.,Branding & visibility
+R0511,Komani,The commission is too small for the work and payment or sims sold came late.,Commission & payment
+R0512,Lady Frere,Terminal battery does not last. please help.,Terminal & device issues
+R0513,Komani,The device prints slips badly and the signal is very weak inside the shop.,Terminal & device issues
+R0514,Komani,The commission is too small for the work and payment for sims sold came late. as discussed before.,Commission & payment
+R0515,Komani,The device prints slips badly and terminal battery does not last. it has been like this for months.,Terminal & device issues
+R0516,Sterkstroom,Terminal battery does not last. eish.,Terminal & device issues
+R0517,Komani,The commission is too small for the work and the airtime machine is offline often.,Commission & payment
+R0518,Komani,Commission is paid late and the commission is too small for the work and support takes days to respond. pleas help.,Commission & payment
+R0519,Sterkstroom,Terminal froze and lost a sale. this is a big problem.,Terminal & device issues
+R0520,Whittlesea,Comission is paid late and the commission is too small for the work.,Commission & payment
+R0521,Komani,Out of stock of sims for two weeks. eish.,SIM & stock supply
+R0522,Komani,I do not understand how commission is calculated. as discussed before.,Commission & payment
+R0523,Whittlesea,The helplie does not answer and support takes days to respond. thank you.,Training & support
+R0524,Komani,Supplier only comes once a month with stock and out of stock o sims for two weeks and need branding so people see us from the road.,SIM & stock supply
+R0525,Komani,I need help with the app and want training for my assistant. this is a big problem.,Training & support
+R0526,Komani,Need branding so people see us from the road and we would like a new board outside. please help.,Branding & visibility
+R0527,Lady Frere,Customers do not know we sell sims. eish.,Branding & visibility
+R0528,Tarkastad,The commission is too small for the work and commission is paid late. eish.,Commission & payment
+R0529,Whittlesea,Starter packs finish quickly. this is a big problem.,SIM & stock supply
+R0530,Cofimvaba,Starter packs finish quickly and stock delivery is late and customers do not know we sell sims. thank you.,SIM & stock supply
+R0531,Cofimvaba,Please paint the wall with branding and the old poster is faded and slow internet for customers.,Branding & visibility
+R0532,Whittlesea,Supplier only comes once a month with stock and need more sim stock every month.,SIM & stock supply
+R0533,Komani,Terminal froze and lost a sale and the printer paper runs out on the device. please help.,Terminal & device issues
+R0534,Cofimvaba,No signal when it rains. this is a big problem.,Network quality
+R0535,Komani,The printer paper runs out on the device and payment for sims sold came late. we are losing customers.,Terminal & device issues
+R0536,Sterkstroom,Supplier only comes once a month with stock. eish.,SIM & stock supply
+R0537,Lady Frere,We want better commission on airtie and commission statement is confusing. thank you.,Commission & payment
+R0538,Sterkstroom,Network keeps dropping in the afternoon and calls drop all the time and support takes days to respond.,Network quality
+R0539,Cofimvaba,Calls drop all the time and no signal when it rains.,Network quality
+R0540,Whittlesea,Out of stock of sims for two weeks andneed more sim stock every month.,SIM & stock supply
+R0541,Komani,The comission is too small for the work and payment for sims sold came late. eish.,Commission & payment
+R0542,Tarkastad,Stock delivery is late and the rep does not bring enough stock and the device prints slips badly. this s a big problem.,SIM & stock supply
+R0543,Sterkstroom,Customers do not know we sell sims and give us branded umbrella and banner. this is a big problem.,Branding & visibility
+R0544,Komani,Machine needs to be fixed and terminal battery does not last and payment for sims sold came late. please help.,Terminal & device issues
+R0545,Komani,Commission is paid late. it has been like this for months.,Commission & payment
+R0546,Lady Frere,Sock delivery is late and we ran out of sim cards last week. eish.,SIM & stock supply
+R0547,Sterkstroom,Need branding so people see us from the road.,Branding & visibility
+R0548,Whittlesea,The old poster is faded.,Branding & visibility
+R0549,Lady Frere,The device prints slips badly. as discussed before.,Terminal & device issues
+R0550,Whittlesea,Commission statement is confusing and i do not understand how commission is calculated. this is a big problem.,Commission & payment
+R0551,Tarkastad,Rep never visits to help. please help.,Training & support
+R0552,Cofimvaba,The printer paper runs out on the device and terminal battery does not last. eish.,Terminal & device issues
+R0553,Whittlesea,The airtime machine is offline often and terminal software update failed. please help.,Terminal & device issues
+R0554,Lady Frere,The old poster is faded. please help.,Branding & visibility
+R0555,Cofimvaba,The speed test was very slow and slow internet for customers. as discussed before.,Network quality
+R0556,Lady Frere,The speed test was very slow. we are losing customers.,Network quality
+R0557,Sterkstroom,I need help with the app and want training for my assistant and the speed test was very slow. it has been like this for months.,Training & support
+R0558,Tarkastad,The speed test was very slow and no signal when it rains. this is a big poblem.,Network quality
+R0559,Tarkastad,I do not understand how commission is calculated and the signal is very weak inside the shop. thank you.,Commission & payment
+R0560,Lady Frere,Please paint the wall with branding and give us branded umbrella and banner and starter packs finish quickly. please help.,Branding & visibility
+R0561,Tarkastad,We ran out of sim cards last week and starter packs finish quickly. thank you.,SIM & stock supply
+R0562,Komani,Need branding so people see us from the road.,Branding & visibility
+R0563,Komani,Need branding so people see us from the road. thank you.,Branding & visibility
+R0564,Whittlesea,Customers do not know we sell sims and we would like a new board outside and supplier only comes once a month with stock. please help.,Branding & visibility
+R0565,Whittlesea,The old poster is faded and please paint the wall with branding and terminal battery does not last. please help.,Branding & visibility
+R0566,Komani,We want better commission on airtime. as dscussed before.,Commission & payment
+R0567,Lady Frere,The old poster is faded and give us branded umbrella and banner. it has been like this for months.,Branding & visibility
+R0568,Whittlesea,Need branding so people see us from the road and the old poster is faded. it has been like this for months.,Branding & visibility
+R0569,Komani,Slow internet for customers. as discussed before.,Network quality
+R0570,Whittlesea,We ran out of sim cards last week and the rep does not bring enough stock. this is a big problem.,SIM & stock supply
+R0571,Komani,Network keeps dropping in the afternoon and the commission is too small for the work. please help.,Network quality
+R0572,Cofimvaba,Support takes days to respond and i need help with the app. eish.,Training & support
+R0573,Komani,Need training on rica registration and rep never visits to help.,Training & support
+R0574,Cofimvaba,Need training on rica registration and i need help with the app and terminal battery does not last.,Training & support
+R0575,Cofimvaba,Stock delivery is late and the printer paper runs out on the device.,SIM & stock supply
+R0576,Cofimvaba,Stock delivery is late.,SIM & stock supply
+R0577,Komani,The old poster is faded.,Branding & visibility
+R0578,Komani,Supplier only comes once a month with stock. please help.,SIM & stock supply
+R0579,Komani,Starter packs finish quickly and stock delivery is late and the commission is too small for the work. we are losing customers.,SIM & stock supply
+R0580,Lady Frere,No signal when it rains and network keeps dropping in the afternoon and commission statement is confusing. please help.,Network quality
+R0581,Komani,The airtime machine is offline often and terminal battery does not last. as discussed before.,Terminal & device issues
+R0582,Cofimvaba,We ran out of sim cards last week and out of stock of sims for two weeks and need branding so people see us from the road. thank you.,SIM & stock supply
+R0583,Komani,Customers complain data is slowhere and slow internet for customers. please help.,Network quality
+R0584,Cofimvaba,No signal when it rans and network keeps dropping in the afternoon.,Network quality
+R0585,Komani,Commission is paid late and we want better commission on airtme. we are losing customers.,Commission & payment
+R0586,Komani,We want better commission on airtime. it has been like this for months.,Commission & payment
+R0587,Lady Frere,Rep never visits to help and support takes days to respond. it has been like this for months.,Training & support
+R0588,Lady Frere,The helpline does not answer and need training on rica registration. eish.,Training & support
+R0589,Tarkastad,No signage outside the shop and need branding so people see us from the road.,Branding & visibility
+R0590,Sterkstroom,I need help with the app. we are losing customers.,Training & support
+R0591,Komani,Need branding so people see us from the road. as discussed before.,Branding & visibility
+R0592,Komani,Nobody showed me how to register a sim and rep never visits to help.,Training & support
+R0593,Komani,Supplier only comes once a month with stock.,SIM & stock supply
+R0594,Lady Frere,Starter packs finish quickly.,SIM & stock supply
+R0595,Komani,Rep never visits to helpand starter packs finish quickly.,Training & support
+R0596,Whittlesea,Stock delivery is late and the rep does not bring enough stock. eish.,SIM & stock supply
+R0597,Lady Frere,No signage outside the shop thank you.,Branding & visibility
+R0598,Lady Frere,Nobody showed me how to register a sim and rep never visits to help. thank you.,Training & support
+R0599,Sterkstroom,Rep never visits to help.,Training & support
+R0600,Komani,Commission is paid late and the speed test was very slow.,Commission & payment
+R0601,Lady Frere,The rep does not bring enough stock and we ran out of sim cards last week.,SIM & stock supply
+R0602,Komani,Network keeps dropping in the afternoon. as discussed before.,Network quality
+R0603,Lady Frere,We want better commission on airtime and commission is paid late and the printer paper runs out on the device. thank you.,Commission & payment
+R0604,Whittlesea,Stock delivery is late. eish.,SIM & stock supply
+R0605,Cofimvaba,Calls drop all the time and no signal when it rains. this is a big problem.,Network quality
+R0606,Sterkstroom,The device prints slips badly and terminal software update failed. this is a big problem.,Terminal & device issues
+R0607,Whittlesea,Terminal software update failed.,Terminal & device issues
+R0608,Lady Frere,Machine needs to be fixed and the airtime machine is offline often. it has been like this for months.,Terminal & device issues
+R0609,Lady Frere,The signal is very weak inside the shop and customers complain data is slow here. thank you.,Network quality
+R0610,Whittlesea,Terminal battery does not last.,Terminal & device issues
+R0611,Komani,We want better commission on airtime.,Commission & payment
+R0612,Sterkstroom,Need more sim stock every month.,SIM & stock supply
+R0613,Whittlesea,Network keeps dropping in the afternoon and the signal is very weak inside the shop.,Network quality
+R0614,Komani,Nobody showed me how to register a sim. please help.,Training & support
+R0615,Lady Frere,Supplier only comes once a month with stock and the rep does not bring enough stock.,SIM & stock supply
+R0616,Sterkstroom,We ran out of sim cards last week and out of stock of sims for two weeks. as discussed before.,SIM & stock supply
+R0617,Cofimvaba,We ran out of sim cards last week and starter packs finish quickly and no signal when it rains.,SIM & stock supply
+R0618,Lady Frere,I do not understand how commission is calculated.,Commission & payment
+R0619,Cofimvaba,Customers do not know we sell sims and we would like a new board outside. thank you.,Branding & visibility
+R0620,Whittlesea,Need more sim stock every month. please help.,SIM & stock supply
+R0621,Komani,The helpline does not answer and need training on rica registration. we are losing customers.,Training & support
+R0622,Cofimvaba,We would like a new board outside. eish.,Branding & visibility
+R0623,Whittlesea,No signal when it rains and the speed test was very slow.,Network quality
+R0624,Whittlesea,The signal is very weak inside the shop and need training on rica registration. please help.,Network quality
+R0625,Tarkastad,Calls drop all the time and the signal is very weak inside the shop. it has been like this for months.,Network quality
+R0626,Sterkstroom,Nobody showed me how to register a sim and i need help with the app.,Training & support
+R0627,Komani,The commission is too small for the work and commission statement is confusing.,Commission & payment
+R0628,Komani,No signal when it rains and need more sim stock every month.,Network quality
+R0629,Komani,The printer paper runs out on the device andcalls drop all the time.,Terminal & device issues
+R0630,Whittlesea,The device prints slips badly.,Terminal & device issues
+R0631,Komani,Commission is paid late.,Commission & payment
+R0632,Sterkstroom,Rep never visits to help and commission statement is confusing. please help.,Training & support
+R0633,Komani,Calls drop all the time and no signal when it rains and no signage outside the shop.,Network quality
+R0634,Komani,Machine needs to be fixed.,Terminal & device issues
+R0635,Komani,Terminal battery does not last and slow internet for customers. this is a big problem.,Terminal & device issues
+R0636,Cofimvaba,Network coverage is bad in this area and the device prints slips badly. as discussed before.,Network quality
+R0637,Komani,Commission statement is confusing.,Commission & payment
+R0638,Cofimvaba,Commission statement is confusing and payment for sims sold came late. this is a big problem.,Commission & payment
+R0639,Cofimvaba,No signal when it rains. it has been like this for months.,Network quality
+R0640,Tarkastad,I do not understand how commission is calculated and we want better commission on airtime.,Commission & payment
